@@ -13,6 +13,17 @@ ProductTag.init(
       autoIncrement: true
     },
     // define columns
+    product_id: {
+      type: DataTypes.INTEGER,
+      references: {
+        model: 'product',
+        key: 'id'
+      },
+    },
+    
+
+
+
   },
   {
     sequelize,
