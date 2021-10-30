@@ -8,6 +8,7 @@
   
   Click the link below to visit my deployed page.
 
+  https://youtu.be/6rdc226lT4k
   <!-- [URL](undefined) -->
 
   ## Table of Contents
@@ -61,7 +62,23 @@
 
   ## Visualization
 
-  placeholder to add images or other media
+  Screenshot showing npm start 
+
+  ![image](Develop/images/ecommerceBackEndNPMRUNSEED.png)
+
+  Screenshot showing npm run seed
+
+  ![Command line showing NPM RUN SEED](./Develop/images/ecommerceBackEndNPMRUNSEED.png)
+
+  The following images show interconnectivity between tables in database
+
+  ![Product to Category Diagram](./Develop/images/productTOcategoryDiagram.png)
+
+  ![Product to Product Tag to Category Diagram](./Develop/images/productProductTagCategoryDiagram.png)
+
+  ![Tag to Product Tag Diagram](./Develop/images/tagProductTagDiagram.png)
+
+  ![Tag to Product Tag to Product Diagram](./Develop/images/tagProductTagProductDiagram.png)
 
   ## Acknowledgements
 

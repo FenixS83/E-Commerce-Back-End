@@ -1,8 +1,7 @@
-const {
-  Product
-} = require('../models');
+const { Product } = require('../models');
 
-const productData = [{
+const productData = [
+  {
     product_name: 'Plain T-Shirt',
     price: 14.99,
     stock: 14,
@@ -31,18 +30,6 @@ const productData = [{
     price: 29.99,
     stock: 22,
     category_id: 2,
-  },
-  {
-    product_name: 'Hoodie',
-    price: 50.50,
-    stock: 15,
-    category_id: 1,
-  },
-  {
-    product_name: 'The Best of Bruce Springsteen limited edition CD box set',
-    price: 69.99,
-    stock: 32,
-    category_id: 3,
   },
 ];
 
